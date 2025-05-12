@@ -12,5 +12,6 @@ public class quest04 {
         System.out.println("Saída: " + resultado);
 
         scanner.close();
+    
     }
 }

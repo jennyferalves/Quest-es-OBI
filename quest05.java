@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class quest05 {
-    public class VerificarPalindromo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite uma palavra ou frase: ");
@@ -16,4 +15,4 @@ public class quest05 {
         scanner.close();
     }
 }
-}
+
